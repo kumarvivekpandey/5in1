@@ -17,9 +17,9 @@ import "./styles/mediaquery.scss";
 function App() {
   return (
     <div className="App">
-       
+        <h1>TechyStar.</h1>
        <nav>
-      <h1>TechyStar.</h1>
+     
       <main>
         <HashLink to={"/#home"}>Home</HashLink>
         <Link to={"/contact"}>Contact</Link>

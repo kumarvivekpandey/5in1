@@ -17,7 +17,7 @@ import "./styles/mediaquery.scss";
 function App() {
   return (
     <div className="App">
-        <h1>TechyStar.</h1>
+        
        <nav>
      
       <main>

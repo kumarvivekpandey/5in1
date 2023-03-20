@@ -17,15 +17,10 @@ import "./styles/mediaquery.scss";
 function App() {
   return (
     <div className="App">
-       <Router>
+       
       <Header />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/services" element={<Services />} />
-      </Routes>
-      <Footer />
-    </Router>
+      
+    
       <h1>hhh</h1>
     </div>
   );

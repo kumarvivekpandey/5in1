@@ -30,7 +30,7 @@ function App() {
     </nav>
       
     
-      <h1>hhh</h1>
+      <h1>hhh</h1>  <h1>TechyStar.</h1>
     </div>
   );
 }
